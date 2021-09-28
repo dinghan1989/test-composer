@@ -1,0 +1,11 @@
+{
+    "name": "zzy/test-composer",
+    "description": "demo of composer",
+    "authors": [
+        {
+            "name": "dinghan",
+            "email": "e20060124@163.com"
+        }
+    ],
+    "require": {}
+}
